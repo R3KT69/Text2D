@@ -1,5 +1,5 @@
 # Text2D
-Create texts easily with this library! (SDL2.ttf)
+Create texts easily with this library! (based upon SDL2.ttf)
 
 ## Prerequisites
 Need to have SDL2, SDL2.ttf.
